@@ -1,0 +1,162 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>RESTO LA GLOIRE</title>
+</head>
+<body>
+    <header>
+        <div class="principale">
+            <div class="logo">
+              <a href="#">Logo<span>Y</span></a>
+            </div>
+            <ul>
+                <li class="active">
+                    <a href="#">Accueil</a>
+                </li>
+                <li>
+                    <a href="#">Menu</a>
+                </li>
+                <li>
+                    <a href="#">A propos</a>
+                </li>
+                <li>
+                    <a href="#">Contact</a>
+                </li>
+                
+            </ul>
+        </div>
+       <div class="titre">
+        <h1>CHEZ MAMA BRICETTE</h1>
+        <p> <h2><strong>Des délices à chaque bouchée</strong></h2></p>
+       </div>
+       <div class="bouton">
+        <a href="#" class="btn1">VISITEZ</a>
+
+        <a href="#" class="btn2">RESERVEZ</a>
+       </div>
+    </header>
+    
+
+    <section class="apropos" id="apropos">
+        <div class="row">
+            <div class="col50">
+                <h2 class="titre-texte"> <span>A</span> propos de nous</h2>
+                <p>Bienvenue Chez Mama Bricette, un lieu où la chaleur du foyer rencontre le plaisir de la table. Ici, nous célébrons la cuisine authentique, généreuse et pleine de saveurs, inspirée par les recettes transmises de génération en génération.
+
+                    Notre mission est simple : vous offrir des plats faits maison, préparés avec amour, à partir d'ingrédients frais et locaux. Que ce soit pour un déjeuner convivial, un dîner entre amis ou un moment en famille, chaque bouchée raconte une histoire, celle de Mama Bricette et de son amour pour la cuisine.
+                    
+                    Installez-vous, détendez-vous, et laissez-nous ravir vos papilles avec des plats qui réchauffent le cœur. Chez Mama Bricette, c’est comme à la maison, mais avec ce petit goût d’exception.</p>
+            </div>
+            <div class="col50">
+                <div class="img">
+                    <img src="chicken-skewers-with-slices-sweet-peppers-dill_2829-18813.avif" alt="image">
+                </div>
+            </div>
+        </div>
+    </section>
+    <section class="menu" id="menu">
+        <div class="titr">
+            <h2 class="titre-texte"> <span>M</span>enu</h2>
+        <p>Nos plats sont une invitation à partager, à se régaler et à créer des souvenirs autour d’une table conviviale. Bon appétit et merci de faire partie de la famille Mama Bricette !</p>
+    <div class="contenu">
+        <div class="box">
+            <div class="imbox">
+              <img src="./c3.avif" alt="">
+            </div>
+            <div class="tes">
+<h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c2.jpg" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c4.jpg" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c5.avif" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c6.avif" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c7.avif" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c8.avif" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>
+        <div class="box">
+            <div class="imbox">
+              <img src="./c9.avif" alt="">
+            </div>
+            <div class="tes">
+    <h3>Riz au lait crémeux, caramel au beurre salé</h3>
+            </div>
+        </div>   
+  </div>
+  <div class="pitre">
+    <a href="#" class="btn2">Voir Plus</a>
+  </div>
+    </section>
+   
+    <section class="contact" id="contact">
+        <div class="titrnoir">
+         <h2 class="titre-texte"> <span>C</span>ontact</h2>
+        </div>
+        <div class="contactform">
+            <h3>Envoyer un message</h3>
+        
+        <div class="inputboite">
+            <input type="text" placeholder="Nom">
+        </div>
+        <div class="inputboite">
+            <input type="text" placeholder="Email">
+        </div>
+            <div class="inputboite">
+            <textarea placeholder="message"></textarea>
+        </div>
+        <div class="inputboite">
+            <input type="submit" value="ENVOYER">
+        </div>
+        </div>
+    </div>
+    </section>
+    <div class="copyright2025">
+        <p>copyright2025 <a href="#">mama bricette</a> twiter tutoriel. Tous droits reservé</p>
+    </div>
+
+</body>
+</html>
